@@ -1,0 +1,44 @@
+<html>
+<head><title>Lessons</title></head>
+<body bgcolor="#007DD9">
+<header>
+<h1>E-Portfolio in ICT-9</h1>
+</header>
+<hr>
+<nav>
+<table cellspacing="14">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="AboutMe.html">About Me</a></td>
+<td><a href="1stQActivities.html">1st Q Activities</a></td>
+<td><a href="Lessons.html">Lessons</a></td>
+<td><a href="Reflection.html">Reflection</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<p align="center">In this quarter, I learned about many different topics regarding the different elements of html, such as lists, tables, hyperlinks, and forms. In this page, html codes and browser outputs from the different lessons will be shown here.
+</p><br><br>
+<p>Lesson 2 - Lists</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\461045832_1144780513830752_8115875259530307143_n.jpg" width="330" align="justify" alt="ol code">
+<img src="C:\Users\Beth A Ong\Documents\webist\460471943_1056725509420790_7919830190937317490_n.jpg" width="330" align="justify" alt="ol output"><br>
+<img src="C:\Users\Beth A Ong\Documents\webist\461472649_2628755590629889_7961810497972853794_n.jpg" width="330" align="justify" alt="ul code">
+<img src="C:\Users\Beth A Ong\Documents\webist\461464866_855785349671439_311627345083506171_n.jpg" width="330" align="justify" alt="ul output"><br>
+<img src="C:\Users\Beth A Ong\Documents\webist\461041500_533825806119223_6906604504216855174_n.jpg" width="330" align="justify" alt="nested list code">
+<img src="C:\Users\Beth A Ong\Documents\webist\461006897_9008661942494686_5037571841666787359_n.jpg" width="330" align="justify" alt="nested list output"><br>
+<img src="C:\Users\Beth A Ong\Documents\webist\461206031_847688604116886_6424455236091620648_n.jpg" width="330" align="justify" alt="dl code">
+<img src="C:\Users\Beth A Ong\Documents\webist\460625182_935105811764127_6107026098139199879_n.jpg" width="330" align="justify" alt="dl output"><br><br>
+<p>Lesson 3-4 - Tables</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\461160962_918501930302508_3476606350466276241_n.jpg" width="330" align="justify" alt="table1">
+<img src="C:\Users\Beth A Ong\Documents\webist\461134404_931174815518004_441306116343180831_n.jpg" width="330" align="justify" alt="table2"><br>
+<img src="C:\Users\Beth A Ong\Documents\webist\461480075_1963139454200386_8571251448504025096_n.jpg" width="330" align="justify" alt="merging cells"><br><br>
+<p>Lesson 5 - Hyperlinks</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\460471943_512349184938074_4426438993988654829_n.jpg" width="330" align="justify" alt="text link">
+<img src="C:\Users\Beth A Ong\Documents\webist\461055326_1575051950032695_7243933198736265434_n.jpg" width="330" align="justify" alt="email hyperlink">
+<img src="C:\Users\Beth A Ong\Documents\webist\461037919_2716984845148099_3928151151732627507_n.jpg" width="330" align="justify" alt="graphic hyperlink"><br><br>
+<p>Lesson 6-8 - Forms</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\461650394_3442713276028982_3191934102920792040_n.jpg" width="330" align="justify" alt="forms1">
+<img src="C:\Users\Beth A Ong\Documents\webist\461607375_1083656749787112_4454861068458278982_n.jpg" width="330" align="justify" alt="forms2">
+<img src="C:\Users\Beth A Ong\Documents\webist\460632115_1729951621093668_2278398456021259566_n.jpg" width="330" align="justify" alt="forms3">
+</body> 
+</html>

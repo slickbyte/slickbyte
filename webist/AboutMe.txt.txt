@@ -1,0 +1,59 @@
+<html>
+<head><title>About Me</title></head>
+<body bgcolor="#007DD9">
+<header>
+<h1>E-Portfolio in ICT-9</h1>
+</header>
+<hr>
+<nav>
+<table cellspacing="14">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="AboutMe.html">About Me</a></td>
+<td><a href="1stQActivities.html">1st Q Activities</a></td>
+<td><a href="Lessons.html">Lessons</a></td>
+<td><a href="Reflection.html">Reflection</a></td>
+</tr>
+</table>
+</nav>
+<hr><br>
+<p align="center">Hello there! My name is Emmanuel Andres A. Ong, but you can call me Andres. I just recently turned 15, and some of my hobbies and things I like include:
+</p>
+<ul>
+<li>
+Reading
+</li>
+<li>
+Playing Video Games
+</li>
+<li>
+Math
+</li>
+<li>
+Turtles
+</li>
+<li>
+Hanging out with my friends
+</li>
+</ul>
+<img src="C:\Users\Beth A Ong\Documents\webist\books.jpg.jpg" width="330" height="500" alt="reading">
+<img src="C:\Users\Beth A Ong\Documents\webist\461467060_564830125994620_5486541297671672281_n.jpg" width="380" align="justify" alt="playing video games">
+<img src="C:\Users\Beth A Ong\Documents\webist\449056952_7673794406062753_7989711926600943327_n.jpg" width="390" align="justify" alt="math">
+<img src="C:\Users\Beth A Ong\Documents\webist\458090506_1155336102192029_6051686796308330199_n.jpg" width="290" align="justify" alt="brown turtle">
+<img src="C:\Users\Beth A Ong\Documents\webist\461228098_544202661314630_4245726812001272546_n.jpg" width="300" height="350" align="justify" alt="tortoise1">
+<img src="C:\Users\Beth A Ong\Documents\webist\461208920_572650695252068_2792352419390645309_n.jpg" width="300" height="280" align="justify" alt="tortoise2">
+<img src="C:\Users\Beth A Ong\Documents\webist\lalala.jpg" width="300" height="350" align="justify" alt="7blessedness">
+<img src="C:\Users\Beth A Ong\Documents\webist\459686682_1316970416418459_8693383481779192027_n.jpg" width="300" height="300" align="justify" alt="anyabday">
+<img src="C:\Users\Beth A Ong\Documents\webist\461477651_550610204298700_1755913651438770381_n.jpg" width="340" height="320" align="justify" alt="mybday">
+<img src="C:\Users\Beth A Ong\Documents\webist\461609505_456882066759776_1540937815685242446_n.jpg" width="400" height="280" align="justify" alt="cinema"><br>
+<p align="left">Oh, and one important thing, I like to travel!
+</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\461618114_499101826282103_1708191123185084773_n.jpg" width="340" align="justify" alt="japan castle">
+<img src="C:\Users\Beth A Ong\Documents\webist\461483672_878505787565186_4314582322068606809_n.jpg" width="310" align="justify" alt="japan gate">
+<img src="C:\Users\Beth A Ong\Documents\webist\461482091_509898858623796_5461721894112044997_n.jpg" width="310" height="320" align="justify" alt="japan octopus">
+<img src="C:\Users\Beth A Ong\Documents\webist\461261655_529560663188284_4383250261855753481_n.jpg" width="310" align="justify" alt="japan bamboo forest">
+<img src="C:\Users\Beth A Ong\Documents\webist\461254507_419333214600665_1756259224901208601_n.jpg" width="310" align="justify" alt="taipei keelung1">
+<img src="C:\Users\Beth A Ong\Documents\webist\461214440_3904195576519657_4167824659820001307_n.jpg" width="310" height="330" align="justify" alt="taipei keelung2">
+<video src="C:\Users\Beth A Ong\Documents\webist\461738488_9215727391777636_3389499000039910032_n.mp4" align="justify" width="320" height="400"alt="taipei waters" controls>
+</body>
+</html>

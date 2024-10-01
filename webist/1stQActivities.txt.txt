@@ -1,0 +1,30 @@
+<html>
+<head><title>1st Q Activities</title></head>
+<body bgcolor="#007DD9">
+<header>
+<h1>E-Portfolio in ICT-9</h1>
+</header>
+<hr>
+<nav>
+<table cellspacing="14">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="AboutMe.html">About Me</a></td>
+<td><a href="1stQActivities.html">1st Q Activities</a></td>
+<td><a href="Lessons.html">Lessons</a></td>
+<td><a href="Reflection.html">Reflection</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<p align="center">Throughout this ICT 1st Quarter, I've accomplished a lot of activities applying html coding, and these are some of them:
+</p><br><br>
+<p>In this activity, we were tasked to create an html code using the given browser output.</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\460289193_443732864824672_7695530764630376350_n.jpg" width="330" height="500" align="justify" alt="pt3(1)">
+<img src="C:\Users\Beth A Ong\Documents\webist\461256337_507452302095979_7338321237473087838_n.jpg" width="330" height="500" align="justify" alt="pt3(2)"><br><br>
+<p>In this activity, my partner, Raina, and I were tasked with creating a survey form in html.</p>
+<img src="C:\Users\Beth A Ong\Documents\webist\461611711_9247005821992867_9104309698148186138_n.jpg" width="330" height="500" align="justify" alt="pairwork"><br><br>
+<p>In this activity, I was tasked with creating a webpage using hyperlinks.</p>
+<video src="C:\Users\Beth A Ong\Documents\webist\461520217_8789008577789420_94625806091620487_n.mp4" width="330" height="500" align="justify" alt="hyperlink vid" controls>
+</body>
+</html>
